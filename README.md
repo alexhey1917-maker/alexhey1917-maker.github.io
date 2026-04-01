@@ -13,7 +13,7 @@
 I am an IT student at Payap University.
 
 🔬 Interests
-   READING, life long learning
+   READING, life long learning.
 
 🎓 Education
     GED Graduate,
