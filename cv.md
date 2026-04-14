@@ -1,4 +1,5 @@
-# Robert P. Batzinger
+
+# ![Profile Picture](http://rbatzing.github.io/img/bob5.png) Robert P. Batzinger
 **Praeceptor Emeritus** Payap University, Department of Computer Science  
 Chiang Mai, Thailand
 
