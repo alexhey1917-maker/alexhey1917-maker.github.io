@@ -6,6 +6,18 @@
     <title>CV - Robert P. Batzinger</title>
     <style>
         body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; color: #333; }
+        .header-container {
+    display: flex;
+    align-items: center; /* This aligns the text and image vertically */
+    gap: 20px;           /* This adds space between the image and name */
+}
+
+.profile-pic {
+    width: 100px;        /* Adjust size as needed */
+    height: 100px;
+    border-radius: 50%;  /* This makes the image circular */
+    object-fit: cover;
+}
         h1 { color: #2c3e50; border-bottom: 2px solid #eee; }
         h2 { color: #e67e22; margin-top: 30px; }
         .contact { font-style: italic; margin-bottom: 20px; }
@@ -15,7 +27,11 @@
 </head>
 <body>
 
+    
+    <div class="header-container">
+    <img src="http://rbatzing.github.io/img/bob5.png" alt="Robert Batzinger Profile" class="profile-pic">
     <h1>Robert P. Batzinger</h1>
+</div>
     <p><strong>Praeceptor Emeritus</strong><br>
     Payap University, Department of Computer Science<br>
     Amphur Muang, Chiang Mai 50000, Thailand</p>
